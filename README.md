@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **This repo is no longer active. Visit [Creating Intelligence](https://creatingintelligence.org) for new developments.** 
+
+
 # Triadic Memory: Cognitive Computing with Associative Memory Algorithms
 
 This repository is a collection of associative memory algorithms operating on sparse distributed representations, which is our brain's data structure.
